@@ -1,3 +1,6 @@
+# THX The Net Ninja !
+https://www.youtube.com/c/TheNetNinja if you want to see some cool tutos :)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # Memory-Bugs
+
+#  const handleChoice = (card) => { choiceOne ? setChoiceTwo(card) : setChoiceOne(card); }; 
